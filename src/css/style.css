@@ -1,0 +1,14 @@
+.row{
+  font-size: 14px;
+}
+
+#costos{
+  list-style: none;
+}
+#sticky-footer {
+  flex-shrink: none;
+}
+
+#table-items #bill_detail #icon-delete{
+  text-align: center;
+}
